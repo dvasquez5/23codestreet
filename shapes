@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+        <meta charset="UTF-8">
+		<title>Page Title</title>
+        <link rel="stylesheet" type="text/css" href="css/styleshapes.css"
+	</head>
+
+	<body>
+        <h1> Let's build shapes! </h1>
+        <div class="circle"></div> 
+        <div class="triangle"></div>
+	</body>
+</html>
